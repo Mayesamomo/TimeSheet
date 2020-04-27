@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/view/enter_emp_hours.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/view/info.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/model/joborders_db.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/model/timesheets_db.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/controller/index.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/model/employees_db.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/view/Joborder_list.php</file>
+            <file>file:/Applications/XAMPP/xamppfiles/htdocs/Timesheet/view/select_employees.php</file>
+        </group>
+    </open-files>
+</project-private>

@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03-Dec-2018, 19:17:35
+    Author     : michaeladefemiayesamomo
+*/
+body, html {
+    background: #f9f9f9;
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+ 
+}
+
+aside
+{
+    float: left;
+    width: 25%;
+    background-color: silver;
+    border-radius: 2em;
+    min-height: 20em;
+}
+
+/*main
+{
+    float: left;
+    width: 75%;
+    padding: 2em;
+}*/
+section
+{
+    padding-left:  2em;
+    background-color: silver;
+    border-radius: 2em;
+    min-height: 20em;
+    width: 70%;
+    float: right;
+}
+.header {
+    background: #aa08ff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    color: #fff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom:20px;
+}
+
+.calc-form {
+    background: #fff;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    font-size: 18px;
+    margin: 0 0 8px;
+    padding: 20px;
+}
+.sum{
+  background:#e6e6e6;
+}
+.summodal{
+  background: none;
+}
+button{
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+fieldset{
+    list-style-type: none;
+}
